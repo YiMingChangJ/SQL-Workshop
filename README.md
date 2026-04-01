@@ -13,9 +13,9 @@ Directory Contents
 1. Datasets (/Archive)
 
 The Archive folder contains the exact same data files that are stored locally on the shared (Q:) drive on the lab computers. This data is based on the Kaggle Financial Transactions Fraud dataset.
-    - users_data.csv: The client demographic profile (Parent Table).
-    - cards_data.csv: The financial products/credit cards issued (Parent Table).
-    - transactions_data.csv: The action ledger containing over 13 million rows of swipe data (Child/Fact Table).
+    * users_data.csv: The client demographic profile (Parent Table).
+    * cards_data.csv: The financial products/credit cards issued (Parent Table).
+    * transactions_data.csv: The action ledger containing over 13 million rows of swipe data (Child/Fact Table).
     Note: The Primary Key and Foreign Key relationships connecting these three tables are fully detailed in the Speaker Notes, but they were not pre-configured on the datasets as they were download from Kaggle.
 
 2. Presentation Slides
