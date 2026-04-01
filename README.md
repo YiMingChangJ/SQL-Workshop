@@ -29,7 +29,7 @@ Directory Contents
 
 ---
 
-## 📜 Acknowledgements
+## Acknowledgements
 
 Developed as part of the **Rotman International Trading Competition (RITC)** and **Rotman Finance Group Finance Research & Trading Lab** educational ecosystem.
 
@@ -38,7 +38,7 @@ All rights reserved.
 
 ---
 
-## 🧩 Author
+## Author
 
 **Yi-Ming Chang**
 Educational Developer, Rotman Finance Research & Trading Lab
