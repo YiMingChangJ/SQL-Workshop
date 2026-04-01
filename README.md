@@ -10,9 +10,7 @@ We use DBeaver as the primary teaching software for this session.
     Confirm ➔ Yes ➔ Download (the DBeaver Sample Database)
 
 Directory Contents
-1. Datasets (/Archive)
-
-The Archive folder contains the exact same data files that are stored locally on the shared (Q:) drive on the lab computers. This data is based on the Kaggle Financial Transactions Fraud dataset.
+1. Datasets (/Archive): The Archive folder contains the exact same data files that are stored locally on the shared (Q:) drive on the lab computers. This data is based on the Kaggle Financial Transactions Fraud dataset.
 
     * users_data.csv: The client demographic profile (Parent Table).
     * cards_data.csv: The financial products/credit cards issued (Parent Table).
