@@ -1,4 +1,4 @@
-SQL Workshop 2026 - Instructor Materials
+# SQL Workshop 2026 - Instructor Materials
 
 This folder contains all the necessary files, datasets, and instructional materials to deliver the SQL Workshop at the BMO Finance Research and Trading Lab.
 
@@ -25,3 +25,21 @@ Directory Contents
 
 4. Student Takeaways
     SQL_Workshop_Student_version.pdf: A streamlined handout for the participants. Students can scan the QR code provided in this document to take away all the SQL code snippets and reference materials used during the workshop for their own future review.
+
+
+---
+
+## 📜 Acknowledgements
+
+Developed as part of the **Rotman International Trading Competition (RITC)** and **Rotman Finance Group Finance Research & Trading Lab** educational ecosystem.
+
+**Copyright © Rotman BMO Finance Group Finance Research & Trading Lab, University of Toronto.**
+All rights reserved.
+
+---
+
+## 🧩 Author
+
+**Yi-Ming Chang**
+Educational Developer, Rotman Finance Research & Trading Lab
+University of Toronto
